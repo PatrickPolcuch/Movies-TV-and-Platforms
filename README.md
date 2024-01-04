@@ -36,7 +36,3 @@ Our user-friendly interface boasts several features:
 ### Conclusion
 
 Our TV streaming database empowers users to effortlessly discover and track their favorite content while staying informed about new releases. As streaming platforms continue to thrive, we believe our database serves as an indispensable tool for anyone navigating the vast array of available content.
-
----
-
-This summary touches upon the project's essence, its functionalities, the technology used, and the user benefits, serving as a concise yet informative introduction for your GitHub README.
